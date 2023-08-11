@@ -51,7 +51,7 @@
 23. Quiz
 
 
-### Don't forget to star this repository✨✨.
+### Don't forget to fork this projects and also give star to this repository✨✨.
 
 
 <a href="https://sosamson.com" target = "_blank" 
