@@ -49,3 +49,10 @@
 21. Movie DB
 22. Hacker News
 23. Quiz
+
+
+### Don't forget to star this repository✨✨.
+
+
+<a href="https://sosamson.com" target = "_blank" 
+rel = "noopener noreferrer">Samson Sanyaolu</a> •
